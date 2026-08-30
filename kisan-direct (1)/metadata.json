@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Direct",
+  "description": "Direct Farmer-to-Consumer marketplace with real-time Mandi price tracking, live delivery map, AI crop quality analyzer, bilingual Hindi/English interface, community forum, and instant chat support.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
